@@ -1,9 +1,11 @@
-# Sonic the Hedgehog (Didj) | Native PC Port
+# Sonic the Hedgehog (Didj) | Native PC Fan Port
 
-A native Windows x64 recompilation by [MrUnemployed](https://gamejolt.com/@mrunemployed). The port statically translates the original ARMv5TE code and uses a desktop OpenGL bridge.
+An unofficial fan port for 64-bit Windows by [MrUnemployed](https://gamejolt.com/@mrunemployed). Free to play and not for sale.
 
-## Setup
+The port statically recompiles ARMv5TE code and uses a desktop OpenGL bridge. Use the arrow keys to move, Z or Space to jump, and F11 for fullscreen. Choose Zone Selection to continue your progress.
 
-When the Windows port package is available, extract it and copy the files from your own compatible Didj cartridge into the same folder. `App.so` and the original asset folders should sit next to `SonicTheHedgehog.exe`. Launch the executable from that folder.
+## How to play
 
-Use the arrow keys to move, Z to jump, and F11 for fullscreen. Choose Zone Selection to continue your progress.
+Download `Sonic_The_Hedgehog_Didj_PC_Port_by_mrunemployed.zip` from Releases once the build is posted. Extract the entire ZIP to a folder and run `SonicTheHedgehog.exe`. Keep the extracted files together.
+
+Original game credits: Realtime Associates, SEGA, and LeapFrog Enterprises.
